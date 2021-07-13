@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+
+body{
+  background-color: white;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: "Ranchers";
+}
+
+nav ul li {
+  float: left;
+  min-width: 75px;
+  color: white;
+}
+
+.whiteBorder {
+  border: 10px solid white;
+}
